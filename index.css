@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+.btn {
+    width: 180px;
+    margin: 40px 10px;
+    background-color: rgb(35, 108, 37);
+    color: white;
+    font-family: "Courier New", Courier, monospace, serif;
+    font-size: 40px;
+    border-radius: 20px;
+    padding: 5pxpx;
+}
+.result {
+    margin: 50px 0;
+}
